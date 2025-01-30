@@ -21,6 +21,6 @@ long long fib(int n){
 }
 int main(void) {
     
-    printf("%ld", fib(100));
+    printf("%ld", fib(4000));
     return 0;
 }
